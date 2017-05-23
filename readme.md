@@ -1,4 +1,4 @@
-[]{#_Hlk480219483 .anchor}**Name: Andres Munoz (munoznajar@gmail.com)**
+
 
 **Self-Driving Car Engineer Nanodegree**
 
