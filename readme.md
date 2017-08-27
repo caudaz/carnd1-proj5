@@ -45,9 +45,9 @@ following are some random samples for vehicles and non-vehicles:
 
 Table 1 Top row: vehicle images and Bot Row: non-vehicle images
 
-  ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\16.png](./media/image1.png){width="0.6666666666666666in" height="0.6666666666666666in"}        ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\31.png](./media/image2.png){width="0.6666666666666666in" height="0.6666666666666666in"}         ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\38.png](./media/image3.png){width="0.6666666666666666in" height="0.6666666666666666in"}        ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\45.png](./media/image4.png){width="0.6666666666666666in" height="0.6666666666666666in"}
+  ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\16.png](./media/image1.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\31.png](./media/image2.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\38.png](./media/image3.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\45.png](./media/image4.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\image23.png](./media/image5.png){width="0.6666666666666666in" height="0.6666666666666666in"}   ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\image116.png](./media/image6.png){width="0.6666666666666666in" height="0.6666666666666666in"}   ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\extra23.png](./media/image7.png){width="0.6666666666666666in" height="0.6666666666666666in"}   ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\extra151.png](./media/image8.png){width="0.6666666666666666in" height="0.6666666666666666in"}
+  ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\image23.png](./media/image5.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\image116.png](./media/image6.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\extra23.png](./media/image7.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\extra151.png](./media/image8.png)
 
 **FEATURES**
 
@@ -158,8 +158,7 @@ better and tune parameters and improve the algorithms. The video is
 named **project\_video\_output2.mp4**. A screenshot of this video is
 shown below:
 
-![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\frame00961.jpg](./media/image10.jpeg){width="6.5in"
-height="3.1875in"}
+![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\frame00961.jpg](./media/image10.jpeg)
 
 The 4 frames represent:
 
