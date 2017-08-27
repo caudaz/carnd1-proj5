@@ -123,7 +123,7 @@ large windows it cover more area (y ranging \[380,620\]). This was done
 to minimize computational time (small windows could cause lots of
 computations). This is shown in the image below:
 
-![](./media/image9.png){width="6.5in" height="3.5902777777777777in"}
+![](./media/image9.png)
 
 To improve the performance of the SVC(linear) classifier, instead of
 using a simple binary classification. I implemented a decision function
