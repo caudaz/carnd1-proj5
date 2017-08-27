@@ -1,8 +1,8 @@
-**Self-Driving Car Engineer Nanodegree**
+# **Self-Driving Car Engineer Nanodegree** #
 
-**Project5: Vehicle Detection**
+# **Project5: Vehicle Detection** #
 
-**Introduction**
+## **Introduction** ##
 
 The project objective was to identify cars on a video stream based on
 previous classification model.
@@ -37,7 +37,7 @@ The process to accomplish it is as follows:
 
     c.  Averaging over several frames
 
-**DATASET**
+## **DATASET** ##
 
 The dataset chosen was the GTI dataset. It contained 8800 vehicle images
 and 8970 non-vehicle images. The PNGs were in size: 64x64 pixels. The
@@ -49,7 +49,7 @@ Table 1 Top row: vehicle images and Bot Row: non-vehicle images
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\image23.png](./media/image5.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\image116.png](./media/image6.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\extra23.png](./media/image7.png)![C:\\Users\\ab\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\extra151.png](./media/image8.png)
 
-**FEATURES**
+## **FEATURES** ##
 
 For the color histogram bins: spatial\_size = (16, 16) and the Spatial
 binning dimensions were 16 pixels.
@@ -69,7 +69,7 @@ X\_scaler = StandardScaler().fit(X)
 
 scaled\_X = X\_scaler.transform(X)
 
-**TRAINING**
+## **TRAINING** ##
 
 Training using a SVC(linear) was done using all combinations of color
 spaces and channels. The following is a summary of the accuracy of the
@@ -99,7 +99,7 @@ The HLS color space with all 3 channels was chosen, since it gave a high
 accuracy. Also HLS was chosen because I can understand the color space,
 and therefore make sense of the features found.
 
-**Sliding Window Search**
+## **Sliding Window Search** ##
 
 The sliding window search was implemented using 2 functions:
 slide\_window and search\_windows2. This was a simple approach to start
@@ -133,7 +133,7 @@ problem (car and not car), it is simpler to implement. Values of less
 than 0.75 were rejected. This improved the accuracy of the
 classification output.
 
-**FALSE POSITIVE REJECTION**
+## **FALSE POSITIVE REJECTION** ##
 
 False positives were filtered at 3 stages on the code:
 
@@ -150,7 +150,7 @@ value
 3-Time average over 10 frames. This rejected false positives that showed
 up on image, but not consistently.
 
-**Video Implementation**
+## **Video Implementation** ##
 
 Before the final video was created, I created a composite video that
 followed the vehicle detection process to help me understand the process
@@ -175,7 +175,7 @@ make tuning decisions and improve the algorithms.
 
 The final output video name is: **project\_video\_output.mp4**
 
-**Discussion**
+## **Discussion** ##
 
 Problems / issues faced during the implementation of this project:
 
